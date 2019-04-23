@@ -65,7 +65,6 @@
 #
 ################################################
 
-node_modules
 bower_components
 assets/images/emoji
 
