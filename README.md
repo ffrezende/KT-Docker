@@ -15,19 +15,19 @@ docker run -it ubuntu  demonstrar<br/>
 
 docker run -v “/var/www” ubuntu<br/>
 
-docker run -it -v "C:\Users\user\Desktop:/var/www" ubuntu
+docker run -it -v "C:\Users\user\Desktop:/var/www" ubuntu<br/>
 
-cd /var/www -> touch KT-docker.txt echo “Fala crafters” > KT-docker.txt
+cd /var/www -> touch KT-docker.txt echo “Fala crafters” > KT-docker.txt<br/>
 
 ## Download do repositorio
 
-docker run -p 4200:3000 -v "/Desktop/volume-exemplo:/var/www" -w "/var/www" node npm start
+docker run -p 4200:3000 -v "/Desktop/volume-exemplo:/var/www" -w "/var/www" node npm start<br/>
 
 ## Ciclo de Vida
-docker ps -a
-docker ps
-docker start -a -t /stop images
-docker inspect / port
+docker ps -a<br/>
+docker ps<br/>
+docker start -a -t /stop images<br/>
+docker inspect / port<br/>
 
 # Buildando uma imagem
 
