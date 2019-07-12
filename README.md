@@ -31,12 +31,12 @@ docker inspect / port<br/>
 
 # Buildando uma imagem
 
-  FROM node:latest
-  COPY . /var/www
-  WORKDIR /var/www
-  --RUN npm install--
-  EXPOSE 3030
-  ENTRYPOINT npm start
+  FROM node:latest<br/>
+  COPY . /var/www<br/>
+  WORKDIR /var/www<br/>
+  --RUN npm install--<br/>
+  EXPOSE 3030<br/>
+  ENTRYPOINT npm start<br/>
   
 ## Porta do Docker Windowns 192.168.99.100
 
