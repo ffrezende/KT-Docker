@@ -1,4 +1,4 @@
-Realizar a instalação do [Docker Toolbox on Windows](https://docs.docker.com/docker-for-windows/)
+Realizar a instalação do [Docker Toolbox on Windows](https://download.docker.com/win/stable/DockerToolbox.exe)
 
 ## Teste de ambiente
 docker version 
