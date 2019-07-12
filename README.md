@@ -9,7 +9,7 @@ docker run hello-world
 Ciclo de vida e o poder do Layred FileSytem - > baixar por camadas.
 
 ## Mãos no teclado!
-docker run ubuntu echo `Ola Mundo`
+docker run ubuntu echo "Ola Mundo"
 
 docker run -it ubuntu  demonstrar
 
