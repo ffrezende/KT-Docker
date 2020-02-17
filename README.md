@@ -38,7 +38,7 @@ docker inspect / port<br/>
   EXPOSE 3030<br/>
   ENTRYPOINT npm start<br/>
   
-## Porta do Docker Windowns 192.168.99.100
+## Porta do Docker Windows 192.168.99.100
 
 ## Criando o repositorio DockerHub
 
